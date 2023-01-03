@@ -135,9 +135,3 @@ https://docs.docker.jp/compose/django.html
 https://qiita.com/Aruneko/items/971e65a945d23f7bb8b6
 
 https://t-keita.hatenadiary.jp/entry/2021/03/24/020619
-
-# 管理アカウント
-
-aa@aa.com
-shott
-qwert124
